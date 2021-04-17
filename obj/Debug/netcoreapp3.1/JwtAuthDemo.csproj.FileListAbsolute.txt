@@ -1,0 +1,10 @@
+C:\Users\suzij\source\repos\JwtAuthDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suzij\source\repos\JwtAuthDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suzij\source\repos\JwtAuthDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suzij\source\repos\JwtAuthDemo\bin\Debug\netcoreapp3.1\JwtAuthDemo.exe
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\JwtAuthDemo.csprojAssemblyReference.cache
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\JwtAuthDemo.AssemblyInfoInputs.cache
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\JwtAuthDemo.AssemblyInfo.cs
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\JwtAuthDemo.RazorTargetAssemblyInfo.cache
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthDemo.StaticWebAssets.Manifest.cache
+C:\Users\suzij\source\repos\JwtAuthDemo\obj\Debug\netcoreapp3.1\staticwebassets\JwtAuthDemo.StaticWebAssets.xml
